@@ -18,5 +18,5 @@
   npm run start:dev
 ```
 ### Admin panel (http://localhost:5173/admin)
-  login: admin
-  password: agrotech2025
+  * login: admin
+  * password: agrotech2025
