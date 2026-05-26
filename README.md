@@ -1,6 +1,11 @@
 # Task Repos (not production)
 
 ### Fast start
+
+Reqirements:
+
+ * PostgreSQL: 9.x +
+
 ```bash
     git clone https://github.com/wnloved/test-task
 ```
